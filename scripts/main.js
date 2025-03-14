@@ -10,7 +10,7 @@ async function open_terminal(){
   await delay(1500);
   createText("[*] Handshake completed. Opening main page...");
   createCode("SERVICES", "Digital Investigations and high value target attribution.");
-  createCode("CONTACT", "56A1ADE4B65B86BCD51CC73E2CD4E542179F47959FE3E0E21B4B0ACDADE51855D34D34D37CB5");
+  createCode("CONTACT", "814D3DA1D6F135AE7316F222C16A6F04DDDA8CE46C484F9C3E8065B570870B6A10375370619C");
   createText('')
   createText("TOX is a distributed end-to-end encrypted chat. Visit <a href='https://tox.chat/faq' style='TEXT-DECORATION: underline'  target='blank'>tox.chat</a> to know more.")
 
